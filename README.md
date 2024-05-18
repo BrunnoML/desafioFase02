@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O desafio de Introdução ao HTML e CSS, Fase 2 é corrigir alguns bugs do código que foi construído nas aulas do curso.
 
-- [Acesse o projeto finalizado, online](https://brunnoml.github.io/desafiofase01/)
+- [Acesse o projeto finalizado, online](https://brunnoml.github.io/desafiofase02/)
 
 ## 🔖 Layout
 
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com :coffee:  por [BrunnoML](htts://www.brunnoml.com.br)
+Feito com :coffee: por [BrunnoML](htts://www.brunnoml.com.br)
