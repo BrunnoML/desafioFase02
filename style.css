@@ -6,11 +6,16 @@ body {
 
 #hero {
   width: 592px;
-  margin: 72px;
+  margin: 72px auto 72px;
+  display: fixed;
+  align-items: center;
+  justify-content: center;
 }
 
-img {
-  margin: 100px;
+#img1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h1 {
@@ -18,6 +23,7 @@ h1 {
   font-size: 49px;
   line-height: 56px;
   font-weight: normal;
+  text-align: center;
 }
 
 h1 span {
@@ -36,6 +42,7 @@ p,
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
+  text-align: center;
 }
 
 #footer a + a {
@@ -46,7 +53,7 @@ p,
   width: 568px;
   height: 0;
 
-  margin: 0 8px;
+  margin: 0 auto 8px;
 
   border: 1px solid #eceff2;
 }
