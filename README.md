@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O desafio de Introdução ao HTML e CSS, Fase 2 é corrigir alguns bugs do código que foi construído nas aulas do curso.
 
-- [Acesse o projeto finalizado, online](https://brunnoml.github.io/desafiofase02/)
+- [Acesse o projeto finalizado, online](https://brunnoml.github.io/desafioFase02/)
 
 ## 🔖 Layout
 
